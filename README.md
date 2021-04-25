@@ -5,13 +5,13 @@ This repo contains links to reference material for various concepts related to M
 ## Programming
 
 1. Object Oriented Programming: https://www.educative.io/blog/object-oriented-programming
-  * 1.1 Theory
-    * 1.1.1 Encapsulation vs Abstraction: http://www.tonymarston.co.uk/php-mysql/abstraction.txt
-    * 1.1.2 Polymorphism - Overloading vs Overriding: https://www.journaldev.com/32182/overriding-vs-overloading-in-java
-  * 1.2 Practice 
-    * 1.2.1 Object Oriented Programming - Python's Class Development Toolkit: https://www.youtube.com/watch?v=HTLu2DFOdTg
-      - GitHub Repo: https://github.com/EmanueleCagliero/py_class_toolkit/blob/master/Python's%20Class%20Development%20Toolkit.ipynb
-    * 1.2.2 Object Oriented Programming (Beginners): https://www.youtube.com/watch?v=JeznW_7DlB0 
+    * 1.1 Theory
+      * 1.1.1 Encapsulation vs Abstraction: http://www.tonymarston.co.uk/php-mysql/abstraction.txt
+      * 1.1.2 Polymorphism - Overloading vs Overriding: https://www.journaldev.com/32182/overriding-vs-overloading-in-java
+    * 1.2 Practice 
+      * 1.2.1 Object Oriented Programming - Python's Class Development Toolkit: https://www.youtube.com/watch?v=HTLu2DFOdTg
+        - GitHub Repo: https://github.com/EmanueleCagliero/py_class_toolkit/blob/master/Python's%20Class%20Development%20Toolkit.ipynb
+      * 1.2.2 Object Oriented Programming (Beginners): https://www.youtube.com/watch?v=JeznW_7DlB0 
 
 
 ## Machine Learning
