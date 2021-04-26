@@ -16,7 +16,23 @@ This repo contains links to reference material for various concepts related to M
 
 ## Machine Learning
 
+1. Basic Data Science Overview: https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md
+2. Gradienct Descent
+    * 2.1 Practical Gradient Descent Explanation: https://www.youtube.com/watch?v=vsWrXfO3wWw
+	* 2.2 Gradient Descent Step-by-Step: https://www.youtube.com/watch?v=sDv4f4s2SB8&t=804s
+3. Bias vs Variance: https://www.youtube.com/watch?v=EuBBz3bI-aA
+4. Cross Validation
+    * 4.1 Cross Validation in Time Series: https://medium.com/@soumyachess1496/cross-validation-in-time-series-566ae4981ce4
+5. Regularization:
+	* 5.1 Ridge vs Lasso: https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b
+6. Dimensionality Reduction
+	* 6.1 Principal Component Analyssi(PCA): https://www.youtube.com/watch?v=FgakZw6K1QQ
+	* 6.2 Principal Component Analyssi(PCA) - Math Theory: https://www.youtube.com/watch?v=fkf4IBRSeEc
+	* 6.3 PCA Using Python: https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
 
+## Math 
+
+1. Skewness vs Kurtosis: https://www.itl.nist.gov/div898/handbook/eda/section3/eda35b.htm
 
 ## Tooling Practice
 
@@ -28,5 +44,11 @@ This repo contains links to reference material for various concepts related to M
 2. Git
     * 2.1 Git & GitHub Crash Course: https://www.youtube.com/watch?v=SWYqp7iY_Tc
     * 2.2 Version Control with Git - https://swcarpentry.github.io/git-novice/
+
+3. Google Machine Learning Crash Course: https://developers.google.com/machine-learning/crash-course
     
-3. kwargs - 
+
+## Interview Help
+1. DS Interview Questions: http://nadbordrozd.github.io/interviews/
+2. Questions & Answers: https://rpubs.com/JDAHAN/172473
+3. E2E Explanation of Core Concepts: https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778
