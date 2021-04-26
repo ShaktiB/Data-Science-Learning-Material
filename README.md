@@ -46,6 +46,9 @@ This repo contains links to reference material for various concepts related to M
     * 2.2 Version Control with Git - https://swcarpentry.github.io/git-novice/
 
 3. Google Machine Learning Crash Course: https://developers.google.com/machine-learning/crash-course
+
+4. PySpark
+	* 4.1 Intro PySpark: https://www.youtube.com/watch?v=XrpSRCwISdk
     
 
 ## Interview Help
