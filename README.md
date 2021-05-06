@@ -33,6 +33,7 @@ This repo contains links to reference material for various concepts related to M
 ## Math 
 
 1. Skewness vs Kurtosis: https://www.itl.nist.gov/div898/handbook/eda/section3/eda35b.htm
+2. Matrix Calculus: https://explained.ai/matrix-calculus/
 
 ## Tooling Practice
 
