@@ -50,9 +50,13 @@ This repo contains links to reference material for various concepts related to M
 
 4. PySpark
 	* 4.1 Intro PySpark: https://www.youtube.com/watch?v=XrpSRCwISdk
+
+5. SQL
+  * 5.1 SQL Indexing -> Making queries more efficient: https://use-the-index-luke.com/
     
 ## Books
-1. 
+  * 1. Machine Learning Engineering by Andriy Burkov
+
 
 ## Interview Help
 1. DS Interview Questions: http://nadbordrozd.github.io/interviews/
